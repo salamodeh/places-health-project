@@ -1,0 +1,7 @@
+﻿*.ipynb
+README.md
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+data/export.csv
