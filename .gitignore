@@ -8,3 +8,5 @@ data/export.csv
 
 *.pptx
 *.png
+
+data/places_wide_clean.csv
