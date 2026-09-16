@@ -1,12 +1,7 @@
 ﻿*.ipynb
 README.md
-.ipynb_checkpoints/
 __pycache__/
 .DS_Store
 
 data/export.csv
 
-*.pptx
-*.png
-
-data/places_wide_clean.csv
